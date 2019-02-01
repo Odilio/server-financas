@@ -53,7 +53,8 @@
     "@loopback/rest": "^1.5.4",
     "@loopback/rest-explorer": "^1.1.7",
     "@loopback/service-proxy": "^1.0.7",
-    "loopback-connector-mysql": "^5.3.1"
+    "loopback-connector-mysql": "^5.3.1",
+    "oasgraph-cli": "^0.2.0"
   },
   "devDependencies": {
     "@loopback/build": "^1.2.1",
